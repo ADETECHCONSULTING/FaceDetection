@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="user_image_description">user image description</string>
+    <string name="placeholder_image_description">placeholder image description</string>
+    <string name="instruction_clic_placeholder">Veuillez cliquer ci-dessus pour ajouter une photo</string>
+</resources>
